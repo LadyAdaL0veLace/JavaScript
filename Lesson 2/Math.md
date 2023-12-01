@@ -1,4 +1,4 @@
-# Math.round function
+# Math.round() function
 
 Rounds any number
 
@@ -22,6 +22,14 @@ Eg - Math.ceil(2.2)
 
 3
 
+Math.ceil(2.1)
+
+3
+
+Math.ceil(2.0)
+
+2
+
 # Math.floor() function
 
 Rounds a number down
@@ -34,10 +42,3 @@ Eg - Math.floor(3.9)
 
 3
 
-Math.ceil(2.1)
-
-3
-
-Math.ceil(2.0)
-
-2

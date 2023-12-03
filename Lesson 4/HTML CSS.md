@@ -5,7 +5,7 @@
 2. Using `onclick=""`. Can be used in the `<button>` tag
 
 **To see JavaScript in Console**   
-console.log();   
+`console.log();`   
 Eg -    
 console.log(2+2);   
 console.log('some'+'text');   

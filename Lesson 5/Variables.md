@@ -20,4 +20,13 @@
 The value of the variable cannot be changed in the entire code   
 
 `var` variable3 = 8;   
-Just like `let`. But new version of javascript does not use `var`.
+Just like `let`. But new version of javascript does not use `var`.   
+
+**typeof**   
+Let's you check the value stored inside a variable.   
+console.log(`typeof` 3)   
+returns number in console   
+
+let message = 'Hello';   
+console.log(`typeof` message);   
+returns string
